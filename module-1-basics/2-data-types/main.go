@@ -48,7 +48,7 @@ func main() {
 	}
 
 	fmt.Println("Days in reverse")
-	for i, _ := range days {
+	for i := range days {
 		fmt.Printf("\n%s", days[len(days)-1-i])
 	}
 
