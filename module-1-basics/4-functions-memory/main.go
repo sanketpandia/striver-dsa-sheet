@@ -1,10 +1,10 @@
-package main
+package functions
 
 import (
 	"fmt"
 )
 
-func main() {
+func Run() {
 	fmt.Println("======= Functions =======")
 
 	a := 2

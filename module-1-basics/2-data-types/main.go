@@ -1,8 +1,8 @@
-package main
+package datatypes
 
 import "fmt"
 
-func main() {
+func Run() {
 	var a bool
 	a = true
 

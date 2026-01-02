@@ -1,11 +1,11 @@
-package main
+package controlflow
 
 import (
 	"fmt"
 	"math/rand"
 )
 
-func main() {
+func Run() {
 	// Practise if-else conditions
 	age := 28
 	if age > 18 {

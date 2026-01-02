@@ -1,8 +1,8 @@
-package main
+package helloworld
 
 import "fmt"
 
-func main() {
+func Run() {
 	var name string
 
 	fmt.Println("Enter Name:")
